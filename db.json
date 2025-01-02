@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": "10",
+      "firstName": "Dali",
+      "lastName": "Brahem",
+      "email": "dali@brahem.com",
+      "mobile": "23568914",
+      "salary": "100"
+    },
+    {
+      "id": "13",
+      "firstName": "Jerbi",
+      "lastName": "men jerba",
+      "email": "jerbi@jerba",
+      "mobile": "52365478",
+      "salary": "1000"
+    },
+    {
+      "id": "15",
+      "firstName": "Yassine",
+      "lastName": "Brahem",
+      "email": "hgg@gmail.com",
+      "mobile": "93623523",
+      "salary": "2000"
+    },
+    {
+      "id": "16",
+      "firstName": "Yassine",
+      "lastName": "kkk",
+      "email": "lll@gmail.com",
+      "mobile": "93623523",
+      "salary": "88888888"
+    },
+    {
+      "id": "18",
+      "firstName": "Jerbi",
+      "lastName": "jey men jerba",
+      "email": "jerba@jerbimenjerba.jerba",
+      "mobile": "jerba5050",
+      "salary": "8090"
+    },
+    {
+      "id": "3",
+      "firstName": "Arafet",
+      "lastName": "Tekaya",
+      "email": "arafet@gmail.com",
+      "mobile": "88888888",
+      "salary": "200"
+    }
+  ],
+  "departments": [
+    {
+      "id": "1",
+      "departmentName": "service Finance"
+    },
+    {
+      "id": "12",
+      "departmentName": "rur"
+    },
+    {
+      "id": "13",
+      "departmentName": "arafet"
+    },
+    {
+      "id": "14",
+      "departmentName": "Employees"
+    },
+    {
+      "id": "15",
+      "departmentName": "Le department de department"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
